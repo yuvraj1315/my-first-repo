@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 "hello, github!"
 hello
+=======
+"hello, github how are u!"
+>>>>>>> b896f7097ef4b664e41ea245728a4f42087f3a35
